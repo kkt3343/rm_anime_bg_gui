@@ -1,7 +1,7 @@
 # rm_anime_bg_gui
 Anime background remover GUI
 
-※ It is to erase the background by AI learning. So It won't work well for other than people.
+※ It is to erase the background by AI learning. So it won't work well for other than people of anime image.
 
 # Usage
 1. Execute the exe file.
