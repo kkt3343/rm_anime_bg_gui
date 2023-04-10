@@ -8,6 +8,9 @@ Anime background remover GUI
 4. Press the "Output_Path_Setting" button to set the result folder.
 5. Press the "Remove_Background" button.
 
+# Example
+<img src="ref.png">
+
 # Links
 * https://github.com/SkyTNT/anime-segmentation
 * https://github.com/shirayu/rm_anime_bg
